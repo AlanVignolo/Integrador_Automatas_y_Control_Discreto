@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1711811505.90113 "c:/Users/brand/Desktop/AyCD_proyecto/Integrador_Automatas_y_Control_Discreto/main.tex" "build/main.pdf" "main" 1711811509.52652 0
+["lualatex"] 1711812033.4837 "c:/Users/brand/Desktop/AyCD_proyecto/Integrador_Automatas_y_Control_Discreto/main.tex" "build/main.pdf" "main" 1711812036.75247 0
   "C:/Users/brand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1711808969 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/brand/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1711808594 127337 12a82dae44171caa2d38a9d959bb6d20 ""
   "C:/Users/brand/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman12-regular.luc" 1711810479 127680 7fb0ee590f493ca2817c1d1da887d157 ""
@@ -260,12 +260,12 @@
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-tounicode.lua" 1709104755 7528 245271ce518c136c96f22fee6cb810ab ""
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1709104755 7917 cebc6454abe34f2fe1c1248f8b2453da ""
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1709104755 13565 50482dad4c221a79dbdbb982122baf8c ""
-  "build/main.aux" 1711811508 67 d1f1d04f1f825549314e4f02ae5806bb "lualatex"
-  "c:/Users/brand/Desktop/AyCD_proyecto/Integrador_Automatas_y_Control_Discreto/main.tex" 1711811491 3003 bb3a1d5ceabd7514db7e70c4c89dfb65 ""
+  "build/main.aux" 1711812036 67 d1f1d04f1f825549314e4f02ae5806bb "lualatex"
+  "c:/Users/brand/Desktop/AyCD_proyecto/Integrador_Automatas_y_Control_Discreto/main.tex" 1711812032 3113 efc7d3d7d9427f488819ec0232dcddb0 ""
   "c:/users/brand/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-regular.otf" 1256929440 111536 fc712364c8d0a1b548d46c76f2678030 ""
   "c:/users/brand/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman12-regular.otf" 1256929440 110400 fcd786b88ef2ed507d57d8a4a31065e3 ""
   "c:/users/brand/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman17-regular.otf" 1256929440 110248 0524e9fd4e00179f5d95f2bba63c8192 ""
-  "main.tex" 1711811491 3003 bb3a1d5ceabd7514db7e70c4c89dfb65 ""
+  "main.tex" 1711812032 3113 efc7d3d7d9427f488819ec0232dcddb0 ""
   (generated)
   "build/main.aux"
   "build/main.log"
