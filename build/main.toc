@@ -1,5 +1,5 @@
 \babel@toc {spanish}{}\relax 
 \setcounter {tocdepth}{-1}
-\contentsline {section}{Índice}{1}{section*.1}%
+\contentsline {section}{Índice}{1}{section*.2}%
 \setcounter {tocdepth}{3}
-\contentsline {part}{Resumen}{2}{section*.1}%
+\contentsline {part}{Resumen}{2}{section*.2}%
