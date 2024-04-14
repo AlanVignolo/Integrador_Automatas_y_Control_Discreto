@@ -4,40 +4,25 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%% Using Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\usepackage{geometry}
-\usepackage{graphicx}
-\usepackage{amssymb}
-\usepackage{amsmath}
-\usepackage{amsthm}
-\usepackage{empheq}
-\usepackage{mdframed}
-\usepackage{booktabs}
-\usepackage{lipsum}
-\usepackage{graphicx}
-\usepackage{color}
-\usepackage{psfrag}
-\usepackage{pgfplots}
-\usepackage{bm}
-\usepackage{fancyhdr}
-\usepackage{fontspec}
-\usepackage[spanish]{babel}
-\usepackage{datetime}
-\usepackage{enumitem}
-\usepackage{hyperref}
-\usepackage{float}
-\usepackage{tocbibind}
-\usepackage{titlesec}
-\usepackage{tocloft}
-\usepackage{wrapfig}
-\usepackage{subcaption}
-\usepackage{multirow}
-\usepackage{tocloft}
+\input{lib/packages}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \setmainfont{calibri}[BoldFont = Calibri Bold]
 \hypersetup{colorlinks=true, linkcolor=black, pdfborderstyle={/S/U/W 1}}
 \titleformat{\part}[block]{\normalfont\huge\bfseries}{\thepart. \,}{0pc}{}
 \setlength{\cftbeforesecskip}{0.4em}
+
+% Cambiar el tamaño de la fuente
+\renewcommand{\normalsize}{\fontsize{14pt}{16pt}\selectfont} % Tamaño de fuente normal
+% Otros tamaños de fuente
+%\renewcommand{\small}{\fontsize{10pt}{12pt}\selectfont}
+%\renewcommand{\large}{\fontsize{14pt}{17pt}\selectfont}
+%\renewcommand{\Large}{\fontsize{16pt}{19pt}\selectfont}
+%\renewcommand{\LARGE}{\fontsize{20pt}{24pt}\selectfont}
+%\renewcommand{\huge}{\fontsize{24pt}{28pt}\selectfont}
+%\renewcommand{\Huge}{\fontsize{30pt}{36pt}\selectfont}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%% Page Setting %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \geometry{a4paper}
@@ -84,10 +69,16 @@
 
 \newpage
 
-\part*{Resumen}
+\include{lib/Resumen}
 
-Control Semi-Automatico Coordinado de Grua Portuaria de Muelle tipo Portico
+\include{lib/Introduccion}
 
-\label{LastPage}    
+\include{lib/Desarrollo}
+
+\include{lib/Conclusiones}
+
+\include{lib/Referencias}
+
+\label{LastPage}
 
 \end{document}
