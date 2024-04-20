@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (MiKTeX 24.3) (format=lualatex 2024.3.30)  14 APR 2024 12:35
+This is LuaHBTeX, Version 1.18.0 (MiKTeX 24.3) (format=lualatex 2024.3.30)  19 APR 2024 21:08
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/brand/Desktop/AyCD_proyecto/Integrador_Automatas_y_Control_Discreto/
@@ -1631,9 +1631,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 3.
-
 [2
 
 ])
@@ -1645,9 +1642,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 72.
-
 [3]
 \openout2 = lib/Introduccion.aux
  (./lib/Introduccion.tex
@@ -1658,9 +1652,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
 (fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 3.
 
 [4
 
@@ -1675,13 +1666,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 74.
-
 [5]
 \openout2 = lib/Desarrollo.aux
  (./lib/Desarrollo.tex
-<img/NADA.png, id=100, 180.07275pt x 191.5155pt>
+<img/NADA.png, id=108, 180.07275pt x 191.5155pt>
 File: img/NADA.png Graphic file (type png)
 <use img/NADA.png>
 Package luatex.def Info: img/NADA.png  used on input line 48.
@@ -1695,14 +1683,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 51.
-
 [6
 
 
 
-])
+]
+File: img/NADA.png Graphic file (type png)
+<use img/NADA.png>
+Package luatex.def Info: img/NADA.png  used on input line 63.
+(luatex.def)             Requested size: 252.94498pt x 269.0316pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 23.8471pt, for example:
@@ -1711,10 +1701,53 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 76.
-
 [7<./img/NADA.png>]
+File: img/NADA.png Graphic file (type png)
+<use img/NADA.png>
+Package luatex.def Info: img/NADA.png  used on input line 85.
+(luatex.def)             Requested size: 252.94498pt x 269.0316pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.8471pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.8471pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.8471pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.8471pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
+
+[9]
+File: img/NADA.png Graphic file (type png)
+<use img/NADA.png>
+Package luatex.def Info: img/NADA.png  used on input line 169.
+(luatex.def)             Requested size: 252.94498pt x 269.0316pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.8471pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.8471pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
+
+[10])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.8471pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.8471pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
+
+[11]
 \openout2 = lib/Conclusiones.aux
  (./lib/Conclusiones.tex)
 
@@ -1725,10 +1758,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 78.
-
-[8
+[12
 
 
 
@@ -1743,11 +1773,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
 
+[13
 
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 80.
 
-[9
 
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.8471pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.8471pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.8471pt}.
+
+[14
 
 
 ]
@@ -1770,33 +1809,30 @@ uild/lib/Referencias.aux))
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7C62AE755E9837DC8EE9369A7E2C1682;2016.
 )
 
 Here is how much of LuaTeX's memory you used:
- 41882 strings out of 476435
+ 41916 strings out of 476435
  125129,1977958 words of node,token memory allocated
- 962 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 4 glue, 4 kern, 1 glyph, 23 attribute, 131 glue_spe
-c, 13 attribute_list, 5 write nodes
-   avail lists: 1:1,2:645,3:182,4:62,5:769,6:43,7:8014,8:47,9:256,10:7,11:893
- 62796 multiletter control sequences out of 65536+600000
+ 1014 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 51 attribute, 131 glue_spe
+c, 27 attribute_list, 2 write nodes
+   avail lists: 1:1,2:697,3:189,4:62,5:769,6:44,7:8020,8:82,9:556,10:7,11:893
+ 62804 multiletter control sequences out of 65536+600000
  102 fonts using 32807471 bytes
- 104i,11n,131p,1134b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,18n,131p,1134b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/WINDOWS/Fonts/calibri.ttf><C:/WINDOWS/Fonts/calibrib.ttf><C:/Users/brand/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/b
 rand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:
-/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.
+/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.
 pfb><C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb>
-Output written on main.pdf (10 pages, 187771 bytes).
+/cmr12.pfb><C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb>
+Output written on main.pdf (15 pages, 218703 bytes).
 
-PDF statistics: 152 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 131072)
+PDF statistics: 218 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 131072)
  128 words of extra memory for PDF output out of 10000 (max. 100000000)
 

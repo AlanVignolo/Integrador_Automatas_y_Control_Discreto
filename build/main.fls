@@ -730,6 +730,12 @@ INPUT .\img\NADA.png
 INPUT .\img\NADA.png
 INPUT .\img\NADA.png
 INPUT .\img\NADA.png
+INPUT .\img\NADA.png
+INPUT .\img\NADA.png
+INPUT .\img\NADA.png
+INPUT .\img\NADA.png
+INPUT .\img\NADA.png
+INPUT .\img\NADA.png
 OUTPUT c:\Users\brand\Desktop\AyCD_proyecto\Integrador_Automatas_y_Control_Discreto\build\lib\Conclusiones.aux
 OUTPUT c:\Users\brand\Desktop\AyCD_proyecto\Integrador_Automatas_y_Control_Discreto\build\lib\Conclusiones.aux
 INPUT .\lib\Conclusiones.tex
@@ -755,6 +761,8 @@ INPUT C:\Users\brand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\brand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\brand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\brand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\brand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\brand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\brand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\brand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\brand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
